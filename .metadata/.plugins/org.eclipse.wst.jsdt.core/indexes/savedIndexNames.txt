@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+C:\Users\shram\Downloads\OnlineCourseManagement\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2901055911.index
+2412441225.index
+2001313815.index
+1067094681.index
+2392686926.index
